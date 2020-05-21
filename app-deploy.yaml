@@ -67,7 +67,7 @@ metadata:
     stack.appsody.dev/id: nodejs-express
     stack.appsody.dev/version: 0.2.10
   name: appsody-backend-va
-  namespace: dev-va
+  namespace: va-dev
 spec:
   applicationImage: dev.local/appsody-backend-va
   createKnativeService: false
