@@ -48,5 +48,3 @@ Now you have the benefit of instrumentation added by the Appsody Stack:
 - Readiness endpoint: http://localhost:3001/ready
 - Metrics endpoint: http://localhost:3001/metrics
 - Dashboard endpoint: http://localhost:3001/appmetrics-dash (development only)
-
-
